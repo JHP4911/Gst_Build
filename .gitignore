@@ -20,7 +20,6 @@ gstreamer-sharp
 gstreamer-vaapi
 libnice
 __pycache__
-meson/
 subprojects/packagecache/
 subprojects/gst-integration-testsuites
 subprojects/gst-devtools
