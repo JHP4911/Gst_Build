@@ -1,3 +1,21 @@
 [submodule "meson"]
 	path = meson
 	url = https://github.com/stb-tester/meson.git
+[submodule "subprojects/gstreamer"]
+	path = subprojects/gstreamer
+	url = https://github.com/stb-tester/gstreamer.git
+[submodule "subprojects/gst-plugins-base"]
+	path = subprojects/gst-plugins-base
+	url = https://github.com/stb-tester/gst-plugins-base.git
+[submodule "subprojects/gst-plugins-bad"]
+	path = subprojects/gst-plugins-bad
+	url = https://github.com/stb-tester/gst-plugins-bad.git
+[submodule "subprojects/gst-plugins-good"]
+	path = subprojects/gst-plugins-good
+	url = https://github.com/stb-tester/gst-plugins-good.git
+[submodule "subprojects/orc"]
+	path = subprojects/orc
+	url = https://github.com/stb-tester/orc.git
+[submodule "subprojects/libnice"]
+	path = subprojects/libnice
+	url = https://github.com/stb-tester/libnice.git
